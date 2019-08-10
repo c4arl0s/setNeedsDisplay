@@ -52,6 +52,7 @@ using setNeedsDisplay method
 @end
 ```
 
+![Screen Shot 2019-08-10 at 2 54 54 PM](https://user-images.githubusercontent.com/24994818/62826302-d8422e00-bb7e-11e9-95f3-dfc913a0e386.png)
 ![Screen Shot 2019-08-10 at 2 51 42 PM](https://user-images.githubusercontent.com/24994818/62826291-a335db80-bb7e-11e9-9bd2-5f797d74a3c9.png)
 
 
