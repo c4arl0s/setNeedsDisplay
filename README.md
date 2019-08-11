@@ -39,7 +39,7 @@ using setNeedsDisplay method
     [dateComponents setMinute:0];
     [dateComponents setSecond:0];
     
-    NSCalendar *calendar = [[NSCalendar alloc] initWithCalendarIdentifier:NSGregorianCalendar];
+    NSCalendar *calendar = [[NSCalendar alloc] initWithCalendarIdentifier:NSCalendarIdentifierGregorian];
     NSDate *dateOfBirth = [calendar dateFromComponents:dateComponents];
     NSDate *nowDate = [[NSDate alloc] init];
     double numberOfSecondsAlive = [nowDate timeIntervalSinceDate:dateOfBirth];
